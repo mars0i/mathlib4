@@ -35,7 +35,7 @@
    "type": "git",
    "subDir": null,
    "scope": "",
-   "rev": "70d004a66abec5814fbfe45f30f881c0cb8e17de",
+   "rev": "5dc24d2acadbeef5d9519922bef22ccf8cc38d25",
    "name": "proofwidgets",
    "manifestFile": "lake-manifest.json",
    "inputRev": "RechartsAxisType",
